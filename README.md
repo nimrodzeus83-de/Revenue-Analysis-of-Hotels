@@ -14,10 +14,10 @@ Discount Amount - It refers to a products or service specific reduction price th
 Sales - It is an activity that refers to the number of goods that are being sold in a given time period.
 
 # Findings: 
-# Hotels      gross        discount amount    sales
-The Hilton - 15,904,300,      1,173,728,    15,540,468
-Lexis suites - 16,076,300,    1,195,751,     15,715,451
-Le meridien - 15,883,750,     1,177,836,     15,523,641  
+  Hotels      gross        discount amount    sales
+* The Hilton - 15,904,300,      1,173,728,    15,540,468
+* Lexis suites - 16,076,300,    1,195,751,     15,715,451
+* Le meridien - 15,883,750,     1,177,836,     15,523,641  
 
  In terms of overall performance between those three hotels, Lexis Suites of Penang is outperforming The Hilton of Kuala Lumpur, and Le Meridien of Sabah in gross revenue, discount amount and sales. Which means the Lexis Suites discounted amount was able to attract more customers in each of their services which enables them to contribute to its net sales and signifies a strong demand for products and services. But the risk scenario is if the discounted amount price was able to attract more customers in purchasing their services there might be a high chance that business hotels will have to rely on their promotions like offering a discounted price if they lower it, the number of their sales might drop down, and if the volume of guest is continue to increase then it is needed to check its net sales, to know if it is enough to cover all of the services cost and expenses for their upcoming customers.
 
