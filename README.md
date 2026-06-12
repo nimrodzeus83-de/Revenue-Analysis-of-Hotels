@@ -14,7 +14,7 @@ Discount Amount - It refers to a products or service specific reduction price th
 Sales - It is an activity that refers to the number of goods that are being sold in a given time period.
 
 # Findings: 
-  Hotels      gross        discount amount    sales
+  *   Hotels      gross        discount amount    sales
 * The Hilton - 15,904,300,      1,173,728,    15,540,468
 * Lexis suites - 16,076,300,    1,195,751,     15,715,451
 * Le meridien - 15,883,750,     1,177,836,     15,523,641  
