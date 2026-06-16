@@ -1,5 +1,5 @@
 # Revenue-Analysis-of-Hotels
- In this report I used the bar chart as my graph model analysis because it is an Ideal for displaying the ranking of a variables and measuring and contrasting groups by counting their frequencies.
+ In this report I used the bar chart as my graph model analysis because it is an Ideal for displaying the ranking of a variables and measuring and contrasting groups by counting their frequencies. Before conducted a data plotting for analysis, first I applied the data cleaning the original file named "Transactions.csv" and renamed in into "new_data.csv".
 
 # Summary:
 This report analyzes financial performance of three different hotels which are The Hilton in Kuala Lumpur, Lexis Suites in Penang, and Le Meridien in Sabah based on their gross revenue, promotional discounts, and final sales which can be used to have a strategic pricing in the future.
