@@ -10,9 +10,9 @@ The objective of this analysis is to evaluate the relationship between gross rev
 # Data Overview:
 These are the metrics that are used:
 
-Gross - It refers to revenue’s total amount, profit, or sales before applying any subtracted deductions, taxes, or operating expenses, and it measures the raw products or service earning power.
-Discount Amount - It refers to a products or service specific reduction price that was being offered and lowers the amount of what customers will pay that was lower to the original price.
-Sales - It is an activity that refers to the number of goods that are being sold in a given time period.
+* Gross - It refers to revenue’s total amount, profit, or sales before applying any subtracted deductions, taxes, or operating expenses, and it measures the raw products or service earning power.
+* Discount Amount - It refers to a products or service specific reduction price that was being offered and lowers the amount of what customers will pay that was lower to the original price.
+* Sales - It is an activity that refers to the number of goods that are being sold in a given time period.
 
 # Findings: 
   *   Hotels      gross        discount amount    sales
