@@ -38,3 +38,5 @@ These are the metrics that are used:
  - <a href="https://github.com/nimrodzeus83-de/Revenue-Analysis-of-Hotels/blob/main/Transactions.csv">Transactions.csv</a>
 
 - <a href="https://github.com/nimrodzeus83-de/Revenue-Analysis-of-Hotels/blob/main/new_data.csv">New Data.csv</a>
+
+- <a href="https://github.com/nimrodzeus83-de/Revenue-Analysis-of-Hotels/blob/main/analysis1.py">Revenue.py</a>
