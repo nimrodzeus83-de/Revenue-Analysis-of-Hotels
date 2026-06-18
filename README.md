@@ -17,7 +17,7 @@ These are the metrics that are used:
 # Findings: 
 - <a href="https://github.com/nimrodzeus83-de/Revenue-Analysis-of-Hotels/blob/main/revenue_bar.png">Revenue Resul</a>
 
-* Hotels  
+# Hotels  
 * The Hilton:
   - Gross: 15,904,300
   - Discount Amount: 1,173,728       -   - Sales: 15,540,468
@@ -33,4 +33,5 @@ These are the metrics that are used:
  In terms of overall performance between those three hotels, Lexis Suites of Penang is outperforming The Hilton of Kuala Lumpur, and Le Meridien of Sabah in gross revenue, discount amount and sales. Which means the Lexis Suites discounted amount was able to attract more customers in each of their services which enables them to contribute to its net sales and signifies a strong demand for products and services. But the risk scenario is if the discounted amount price was able to attract more customers in purchasing their services there might be a high chance that business hotels will have to rely on their promotions like offering a discounted price if they lower it, the number of their sales might drop down, and if the volume of guest is continue to increase then it is needed to check its net sales, to know if it is enough to cover all of the services cost and expenses for their upcoming customers.
 
 * Tools used: VS Code, Python
-* Data Source: Kaggle.com
+* Data Source:
+ - <a href="https://github.com/nimrodzeus83-de/Revenue-Analysis-of-Hotels/blob/main/Transactions.csv">Transactions.csv</a>
