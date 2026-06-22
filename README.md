@@ -4,6 +4,9 @@
 # Summary:
 This report analyzes financial performance of three different hotels which are The Hilton in Kuala Lumpur, Lexis Suites in Penang, and Le Meridien in Sabah based on their gross revenue, promotional discounts, and final sales which can be used to have a strategic pricing in the future.
 
+# Scenario: 
+In this report, the owner owns a three different hotels which are The hilton, Lexis Suites, and Le Meridien, and he/she wants to know performance of the three hotels, for them to able to identify on how much money do they get with or without aadded discounted vaklue and how much moeny do they earn from their sales for them to be able to know which services are most liked by their customers and how to identify the other trends that might support to their hotel's services that boost more customers.
+
 # Objective:
 The objective of this analysis is to evaluate the relationship between gross revenue, promotional discounts, and final sales across three different regional hotel properties in order to optimize the future pricing strategies of the hotels.
 
